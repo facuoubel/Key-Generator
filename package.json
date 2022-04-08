@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_02",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Generador de contraseñas cifradas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Facundo Oubel",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
